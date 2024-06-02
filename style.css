@@ -243,3 +243,20 @@ footer {
     font-weight: 500;
     font-size: 1.1rem;
 }
+
+.date-finder button {
+    background-color: rgb(28, 28, 28);
+    padding: 16px 30px;
+    color: white;
+}
+
+.date-finder button:hover {
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(29, 29, 29);
+    transition-duration: .5s;
+    color: rgb(37, 37, 37);
+}
+
+.date {
+    font-size: 1.6rem;
+}
